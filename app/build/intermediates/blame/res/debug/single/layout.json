@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Day20_fragment_3(tab+fragment)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment01.xml",
+        "source": "D:\\AndroidStudioProjects\\Day20_fragment_3(tab+fragment)\\app\\src\\main\\res\\layout\\fragment_fragment01.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Day20_fragment_3(tab+fragment)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment02.xml",
+        "source": "D:\\AndroidStudioProjects\\Day20_fragment_3(tab+fragment)\\app\\src\\main\\res\\layout\\fragment_fragment02.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Day20_fragment_3(tab+fragment)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\Day20_fragment_3(tab+fragment)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
